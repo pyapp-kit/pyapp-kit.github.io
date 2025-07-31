@@ -1,5 +1,8 @@
 # pyapp-kit.github.io
-landing page for pyapp-kit org
+
+Landing page for pyapp-kit org
+
+https://pyapp-kit.github.io/
 
 ## serve locally:
 
